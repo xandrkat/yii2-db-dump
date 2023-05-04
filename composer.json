@@ -1,0 +1,19 @@
+{
+    "name": "xandrkat/yii2-db-dump",
+    "description": "Module to dump db.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+	"version":"1.0.0",
+    "authors":[
+    	{
+            "name": "Alexandr Katrazhenko",
+            "email": "katrazhenko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "xandrkat\\DbDump\\": "src"
+        }
+    }
+}
